@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>Fake Podcast</title>
+    <link>https://sharpcat.github.io/fakepodcast/</link>
+    <description>Test feed for Apple Podcasts</description>
+    <language>zh-cn</language>
+
+    https://sharpcat.github.io/fakepodcast/feed.xml
+
+    <itunes:author>sharpcat</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+
+    <item>
+      <title></title>
+      <description>20s WAV test file</description>
+      <pubDate>Mon, 17 Mar 2025 12:00:00 +0000</pubDate>
+      <guid>notitle_20s.wav</guid>
+
+      <enclosure
+        url="https://sharpcat.github.io/fakepodcast/notitle_20s.wav"
+        length="2000000"
+        type="audio/wav" />
+    </item>
+
+  </channel>
+</rss>
