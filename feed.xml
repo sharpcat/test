@@ -21,7 +21,7 @@
     <itunes:image href="https://sharpcat.github.io/test/cover.jpg"/>
 
     <item>
-        <title></title>
+        <title>Test WAV File</title>
         <description>20s WAV test file</description>
         <pubDate>Mon, 17 Mar 2025 12:00:00 +0000</pubDate>
         <guid>https://sharpcat.github.io/test/notitle_20s.wav</guid>
