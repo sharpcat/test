@@ -5,11 +5,11 @@
 
   <channel>
     <title>Fake Podcast</title>
-    <link>https://sharpcat.github.io/fakepodcast/</link>
+    <link>https://sharpcat.github.io/test/</link>
     <description>Test feed for Apple Podcasts</description>
     <language>zh-cn</language>
 
-    https://sharpcat.github.io/fakepodcast/feed.xml
+    https://sharpcat.github.io/test/feed.xml
 
     <itunes:author>sharpcat</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -21,7 +21,7 @@
       <guid>notitle_20s.wav</guid>
 
       <enclosure
-        url="https://sharpcat.github.io/fakepodcast/notitle_20s.wav"
+        url="https://sharpcat.github.io/test/notitle_20s.wav"
         length="2000000"
         type="audio/wav" />
     </item>
