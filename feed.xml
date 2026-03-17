@@ -1,30 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
-  <channel>
+<channel>
     <title>Fake Podcast</title>
     <link>https://sharpcat.github.io/test/</link>
     <description>Test feed for Apple Podcasts</description>
     <language>zh-cn</language>
 
-    https://sharpcat.github.io/test/feed.xml
-
     <itunes:author>sharpcat</itunes:author>
+    <itunes:summary>Test feed for Apple Podcasts</itunes:summary>
+
+    <itunes:owner>
+        <itunes:name>sharpcat</itunes:name>
+        <itunes:email>test@example.com</itunes:email>
+    </itunes:owner>
+
     <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://sharpcat.github.io/test/cover.jpg"/>
 
     <item>
-      <title></title>
-      <description>20s WAV test file</description>
-      <pubDate>Mon, 17 Mar 2025 12:00:00 +0000</pubDate>
-      <guid>notitle_20s.wav</guid>
-
-      <enclosure
-        url="https://sharpcat.github.io/test/notitle_20s.wav"
-        length="2000000"
-        type="audio/wav" />
+        <title></title>
+        <description>20s WAV test file</description>
+        <pubDate>Mon, 17 Mar 2025 12:00:00 +0000</pubDate>
+        <guid>https://sharpcat.github.io/test/notitle_20s.wav</guid>
+        <enclosure url="https://sharpcat.github.io/test/notitle_20s.wav"
+                   length="2060000"
+                   type="audio/wav"/>
     </item>
 
-  </channel>
+</channel>
 </rss>
