@@ -25,8 +25,8 @@
         <title>Test WAV File</title>
         <description>20s WAV test file</description>
         <pubDate>Mon, 17 Mar 2025 12:00:00 +0000</pubDate>
-        <guid>https://sharpcat.github.io/test/notitle_20s.wav</guid>
-        <enclosure url="https://sharpcat.github.io/test/notitle_20s.wav"
+        <guid>https://sharpcat.github.io/test/notitle.wav</guid>
+        <enclosure url="https://sharpcat.github.io/test/notitle.wav"
                    length="2060000"
                    type="audio/wav"/>
     </item>
@@ -36,8 +36,8 @@
         <title>Test M4A File</title>
         <description>20s M4A test file</description>
         <pubDate>Mon, 17 Mar 2025 12:01:00 +0000</pubDate>
-        <guid>https://sharpcat.github.io/test/notitle_20s.m4a</guid>
-        <enclosure url="https://sharpcat.github.io/test/notitle_20s.m4a"
+        <guid>https://sharpcat.github.io/test/notitle.m4a</guid>
+        <enclosure url="https://sharpcat.github.io/test/notitle.m4a"
                    length="7778"
                    type="audio/mp4"/>
     </item>
@@ -47,8 +47,8 @@
         <title> </title>
         <description>20s MP3 test file</description>
         <pubDate>Mon, 17 Mar 2025 12:02:00 +0000</pubDate>
-        <guid>https://sharpcat.github.io/test/notitle_20s.mp3</guid>
-        <enclosure url="https://sharpcat.github.io/test/notitle_20s.mp3"
+        <guid>https://sharpcat.github.io/test/notitle.mp3</guid>
+        <enclosure url="https://sharpcat.github.io/test/notitle.mp3"
                    length="321035"
                    type="audio/mpeg"/>
     </item>
